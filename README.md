@@ -1,4 +1,4 @@
-# Data Manipulation using notebooks in colab [![Python CI](https://github.com/DivyaSharma0795/Basic_Python_Repository/actions/workflows/main.yml/badge.svg)](https://github.com/DivyaSharma0795/Basic_Python_Repository/actions/workflows/main.yml)
+# Data Manipulation using notebooks in colab [![Test](https://github.com/nogibjj/DukeIDS706_ds655_Week09/actions/workflows/04_Test.yml/badge.svg)](https://github.com/nogibjj/DukeIDS706_ds655_Week09/actions/workflows/04_Test.yml)
 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nogibjj/DukeIDS706_ds655_Week09/blob/main/Codes/Data_Manipulation.ipynb)
